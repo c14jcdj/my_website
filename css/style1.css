@@ -52,6 +52,9 @@ ul.nav li a {
 	color: #CC0099;
 }
 
+ul.nav li a:hover {
+	color: #000000;
+}
 
 #intro {
 	margin: 50px 0 75px 0;
