@@ -31,9 +31,10 @@ h2 {
 	color: #FFFFFF;
 	background: #CC0099;
 	padding: 15px 30px;
-	margin: 40px 0px;
+	margin: 20px 0px;
 	border-radius: 25px;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 .btn:hover {
@@ -63,15 +64,13 @@ ul.nav li a {
 
 
 
-#new-cupcakes img {
+#querks img {
 	border: 8px solid #CC0099;
 	margin: 0 0 20px 0;
 }
 
 
-#featured-cupcake img {
-	border: 8px solid #CC0099;
-}
+
 
 #copyright {
 	border-top: 8px solid #CC0099;
@@ -80,3 +79,58 @@ ul.nav li a {
 	text-align: center;
 }
 
+#beach img {
+    width: 1000px;
+    height: 300px;
+    margin: 50px 0 0 0;
+    border: 10px solid #CC0099;
+
+
+}
+
+#profile img {
+	width: 300px;
+	height: 400px;
+	border: 10px solid #CC0099;
+}
+
+#love_head {
+	text-align: center;
+}
+
+#chewy {
+	width: 300px;
+	height: 300px;
+
+}
+
+#ohana {
+	width: 300px;
+	height: 300px;
+}
+
+#family {
+	width: 350px;
+	height: 400px;
+}
+
+#love {
+	width: 300px;
+	height: 300px;
+}
+
+#ohana_s {
+	margin-top: 50px;
+}
+
+#querk_s {
+	float: left;
+}
+
+#onesie {
+	width: 400px;
+	height: 400px;
+}
+#querk {
+	float: right;
+}
