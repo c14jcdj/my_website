@@ -20,8 +20,8 @@ h2 {
 }
 
 .btn{
-	color: #FAF3BC;
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	color: #FFFFFF;
+	background: #CC0099;
 	padding: 15px 30px;
 	margin: 40px 0px;
 	border-radius: 25px;
@@ -55,20 +55,17 @@ ul.nav li a {
 
 
 #new-cupcakes img {
-	border: 8px solid #FAF3BC;
+	border: 8px solid #CC0099;
 	margin: 0 0 20px 0;
 }
 
-#first-pic {
-	margin: 0 0 20px 80px;
-}
 
 #featured-cupcake img {
-	border: 8px solid #FAF3BC;
+	border: 8px solid #CC0099;
 }
 
 #copyright {
-	border-top: 8px solid #2A0400;
+	border-top: 8px solid #CC0099;
 	padding: 10px 0px;
 	margin: 15px 0px;
 	text-align: center;
