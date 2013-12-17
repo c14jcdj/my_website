@@ -29,7 +29,8 @@ h2 {
 }
 
 .btn:hover {
-	background-color: #4CC4A7;
+	background-color: #000000;
+	color: #CC0099
 }
 
 ul.nav {
