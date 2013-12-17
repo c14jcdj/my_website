@@ -5,7 +5,7 @@ body {
 }
 
 a {
-	color: #4FB69F;
+	color: #CC0099;
 	text-decoration: none;
 }
 
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
 	font-size: 1.500em;
-	color: #B4C34F;
+	color: #CC0099;
 }
 
 .btn{
@@ -39,12 +39,12 @@ ul.nav {
 }
 
 ul.nav li {
-	margin-right: 40px;
+	margin-right: 20px;
 	float: left;
 }
 
 ul.nav li a {
-	color: #FAF3BC;
+	color: #CC0099;
 }
 
 
@@ -52,9 +52,15 @@ ul.nav li a {
 	margin: 50px 0 75px 0;
 }
 
+
+
 #new-cupcakes img {
 	border: 8px solid #FAF3BC;
 	margin: 0 0 20px 0;
+}
+
+#first-pic {
+	margin: 0 0 20px 80px;
 }
 
 #featured-cupcake img {
